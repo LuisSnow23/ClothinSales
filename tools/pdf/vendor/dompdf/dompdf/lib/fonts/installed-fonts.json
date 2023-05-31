@@ -1,0 +1,28 @@
+{
+    "poppins": {
+        "200": "D:\\xampp\\htdocs\\tools\\pdf\\vendor\\dompdf\\dompdf\/lib\/fonts\/poppins_200_0eec96f30d9c1b73637ec638fbe92403",
+        "300": "D:\\xampp\\htdocs\\tools\\pdf\\vendor\\dompdf\\dompdf\/lib\/fonts\/poppins_300_4a08cccbc2911e3077321a0298f4e093",
+        "normal": "D:\\xampp\\htdocs\\tools\\pdf\\vendor\\dompdf\\dompdf\/lib\/fonts\/poppins_normal_442dffd12abdf0df26c14405d3f49bfa",
+        "500": "D:\\xampp\\htdocs\\tools\\pdf\\vendor\\dompdf\\dompdf\/lib\/fonts\/poppins_500_6a6f5e017da7e062546fd806ab3b249c",
+        "600": "D:\\xampp\\htdocs\\tools\\pdf\\vendor\\dompdf\\dompdf\/lib\/fonts\/poppins_600_272b14b77a21dc5827f4570eff556c8f",
+        "bold": "D:\\xampp\\htdocs\\tools\\pdf\\vendor\\dompdf\\dompdf\/lib\/fonts\/poppins_bold_2d1c4b360c3ac297e98fc2cfd808a2cc",
+        "800": "poppins_800_313634739c16b7523b76f32223648e5b"
+    },
+    "font awesome 5 brands": {
+        "normal": "font_awesome_5_brands_normal_0a90141515ab79f21572abbb40aa93ec"
+    },
+    "font awesome 5 free": {
+        "normal": "D:\\xampp\\htdocs\\tools\\pdf\\vendor\\dompdf\\dompdf\/lib\/fonts\/font_awesome_5_free_normal_1e4eb65c8909b692fa93ec104b292da7",
+        "900": "font_awesome_5_free_900_7a391bfaa5a3bae95b80e593a78c65b9"
+    },
+    "line awesome brands": {
+        "normal": "line_awesome_brands_normal_f905f0dcb962dd842eea02bb4f9eee69"
+    },
+    "line awesome free": {
+        "normal": "D:\\xampp\\htdocs\\tools\\pdf\\vendor\\dompdf\\dompdf\/lib\/fonts\/line_awesome_free_normal_967a0922d505961af7c5cdf6c50fd81e",
+        "900": "line_awesome_free_900_03518a78e82e89adf0bdd3560d8fbb29"
+    },
+    "lexend deca": {
+        "500": "lexend_deca_500_ad916234c8c2f0201ed385abf6e22d48"
+    }
+}
